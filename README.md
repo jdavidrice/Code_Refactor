@@ -2,7 +2,9 @@
 
 ## Description 
 
-This mock website is for the company "Horiseon." The starter code for the site was modified to incorporate semantic HTML elements. These elements include: body, header, footer, nav, main, figure, aside, and section. Additionally, the alt and title attributes were used to add descriptions to the images on the page. The screen reader ChromeVox was used to test the accessiblity of the site. Comments were added to the CSS file to describe what each element does.  
+This mock website is for the company "Horiseon." The starter code for the site was modified to incorporate semantic HTML elements. These elements include: body, header, footer, nav, main, figure, aside, and section. Additionally, the alt and title attributes were used to add descriptions to the images on the page. The screen reader ChromeVox was used to test the accessiblity of the site. Comments were added to the CSS file to describe what each element does.
+
+[Link to published website](https://jdavidrice.github.io/Week_1_Homework/)
 
 ## Table of Contents
 
